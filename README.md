@@ -20,7 +20,7 @@ This is a simple yet addictive project that helps beginners learn the basics of 
 
 | Rock | Paper | Scissors |
 |------|-------|----------|
-| ![Rock](rock.png) | ![Paper](paper.png) | ![Scissors](scissors.png) |
+| ![Rock](rock.png)  |  ![Paper](paper.png)  |  ![Scissors](scissors.png) |
 
 *(Add a GIF of gameplay later if you want 😉)*  
 
@@ -49,3 +49,4 @@ git clone https://github.com/sajalgoyal007/StonePaperSessiors.git
 cd StonePaperSessiors
 
 # Open index.html in your browser
+
